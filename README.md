@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=19&pause=1000&color=20F750&width=435&lines=Hi%2C+I'm+Forhad%2C+a+tech+enthusiast!" alt="Typing SVG" /></a>
 # Here are some information about me:
