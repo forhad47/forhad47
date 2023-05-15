@@ -12,6 +12,11 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to teach people.
 
+<p align="center"> 
+   Visitors count <br>
+  <img src="https://profile-counter.glitch.me/aarafat27/count.svg" />
+</p>
+
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
