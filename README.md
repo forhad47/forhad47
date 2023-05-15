@@ -47,3 +47,10 @@
 
 ![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=forhad47&show_icons=true&theme=dracula)
 
+## ☎️ Connect with Me
+<p align="left">
+<a href="https://twitter.com/forhadabu47" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white"></a>
+<a href="https://linkedin.com/in/md-abu-taleb-forhad-857409241" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+<a href="https://fb.com/at.forhadkhan" target="blank"><img src="https://img.shields.io/badge/Facebook-015BE5.svg?logo=facebook&logoColor=white"></a>
+<a href="mailto:abutalebforhad762@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white"></a>
+</p>
