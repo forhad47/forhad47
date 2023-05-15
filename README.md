@@ -14,7 +14,7 @@
 
 <p align="center"> 
    Visitors count <br>
-  <img src="https://profile-counter.glitch.me/aarafat27/count.svg" />
+  <img src="https://profile-counter.glitch.me/forhad47/count.svg" />
 </p>
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
