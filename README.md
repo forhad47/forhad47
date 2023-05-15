@@ -10,5 +10,5 @@
 - 💬 Ask me about python programming.
 - 📫 How to reach me: abutalebforhad762@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like to teach peole.
+- ⚡ Fun fact: I like to teach people.
 
